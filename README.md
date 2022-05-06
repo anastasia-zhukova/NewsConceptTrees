@@ -157,8 +157,7 @@ Network with additional similarity score on the network edges.
 Network with an applied edge-filter. The other filtered networks are named analogical.     
 
 
-## Roadmap
-What I would have liked to add with more time:     
+## Future work     
 - Create dataframes of the edges for backup and optionally read dataframes to save BabelNet-keys.     
 - Compare BabelNet-IDs of entity pairs to check if they are equal.     
 - Optional directed networks.     
